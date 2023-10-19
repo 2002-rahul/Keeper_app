@@ -1,0 +1,34 @@
+body{
+    background-color: #E8ECEF;
+}
+
+.centered{
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text{
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+}
+
+.icon_key{
+    font-size:100px;
+    color: #000;
+}
+
+.auth{
+    background-color: #000;
+    color: #fff;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+
+
+.btn{
+    margin-right: 50px;
+    margin-top: 20px;
+}
